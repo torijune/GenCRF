@@ -1,5 +1,7 @@
-# GenCRF
-This repository contains the implementation of a retrieval query optimization system that uses **SimDW** and **ScoreDW** to generate and rank queries based on user input.   
+
+**This repository contains the implementation of a retrieval query optimization system that uses **SimDW** and **ScoreDW** to generate and rank queries based on user input.**   
+
+# GenCRF  
 The system integrates **Llama-3.1-8B** for query reformulation and **Mistral-7B** for clustering, with evaluation done using **LLM(Mistral-7B)** scoring techniques with **innovative weighted aggregation strategies(SimDW & ScoreDW)** to optimize retrieval performance and crucially integrates a novel **Query Evaluation Rewarding Model (QERM)** to refine the process through feedback loops.
 
 ## Overview
