@@ -1,4 +1,5 @@
-
+**This repositorry is not official code, but code implemented by individuals as an exercise.**   
+   
 **This repository contains the implementation of a retrieval query optimization system that uses **SimDW** and **ScoreDW** to generate and rank queries based on user input.**   
 
 # GenCRF  
